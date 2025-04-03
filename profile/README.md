@@ -58,7 +58,7 @@ LDD goes beyond technical architecture design and focuses on human interactions,
 15. **Collaboration And Participation Are Key To Achieving A Shared Language:**  
     * Holding brainstorming sessions with all stakeholders (technical teams, users, and managers) is essential to achieve a shared language.
 
-16. **Continuous Feedback guarantees Language Evolution:**  
+16. **Continuous Feedback Guarantees Language Evolution:**  
     * Continuous feedback from users and stakeholders helps the domain language evolve and adapt to real-world needs.
 
 17. **Avoid Technical Jargon:**  
@@ -72,6 +72,9 @@ LDD goes beyond technical architecture design and focuses on human interactions,
 
 20. **Simplifying Complexities With Language:**  
     * The language should be designed to simplify complexities and make intricate processes more understandable and manageable.
+
+21. **Language Closure is Essential:**
+    * At LDD, we aim to maintain the language as small and closed as possible. By adopting the concept of "closure" from mathematics, we avoid introducing unnecessary terms or concepts into the language. This means that the language should evolve only with deliberate and necessary additions, ensuring it remains precise, simple, and free from unnecessary complexity. This closure approach helps us keep the language clear, focused, and effective.
 
 ## Conclusion 🎉
 
