@@ -61,7 +61,7 @@ LDD goes beyond technical architecture design and focuses on human interactions,
 16. **Continuous Feedback Guarantees Language Evolution:**  
     * Continuous feedback from users and stakeholders helps the domain language evolve and adapt to real-world needs.
 
-17. **Avoid Technical Jargon:**  
+17. **Avoidance Of Technical Jargon Is Essential:**  
     * In conversations and documentation, avoid using specialized programming jargon and instead use simple, comprehensible language for everyone.
 
 18. **Language Evolves Over Time:**  
