@@ -10,7 +10,10 @@ LDD goes beyond technical architecture design and focuses on human interactions,
 * **Bridging Gaps:** LDD focuses on human interactions, fostering seamless communication between technical and non-technical teams.
 * **Simplifying Complexity:** We leverage language to streamline processes and demystify intricate systems.
 * **Evolving with You:** We embrace language evolution, ensuring our systems remain relevant and adaptable.
-  
+
+  [Sign Manifesto ❤️](https://languagedrivendesign.com/#sign)
+
+
 ## Principles of Language-Driven Design (LDD) 📜
 
 1. **Language Is The Foundation Of Software Systems:**  
